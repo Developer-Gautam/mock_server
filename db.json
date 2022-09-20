@@ -6,130 +6,51 @@
       "author": "typicode"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "employee": [
+  "users": [
     {
       "name": "Gautam Kumar",
-      "age": "33",
-      "status": true,
-      "id": 1
-    },
-    {
-      "name": "Gautam Kumar",
-      "age": "33",
-      "status": true,
-      "id": 2
-    },
-    {
-      "name": "saima zaki",
-      "age": "32",
-      "status": true,
+      "batch": "fw20_0786",
+      "course": "JS201",
+      "age": "19",
+      "mobileNumber": "9341980205",
+      "evaluationScore": "29",
       "id": 3
     },
     {
-      "name": "gandu king",
-      "age": "3233",
-      "status": true,
-      "id": 4
-    },
-    {
-      "name": "munna bhiya",
-      "age": "09",
-      "status": true,
-      "id": 5
-    },
-    {
-      "name": "Gautam Kumar",
-      "age": "dsa3",
-      "status": true,
+      "name": "qw2",
+      "batch": "23",
+      "course": "fasf233",
+      "age": "23",
+      "mobileNumber": "23322",
+      "evaluationScore": "9.5",
       "id": 6
     },
     {
-      "name": "Gautam Kumar",
-      "age": "3",
-      "status": true,
-      "id": 7
-    },
-    {
-      "name": "priya",
-      "age": "12",
-      "status": true,
-      "id": 8
-    },
-    {
-      "name": "Gautam",
-      "age": "99.3",
-      "status": true,
+      "name": "",
+      "batch": "",
+      "course": "",
+      "age": "",
+      "mobileNumber": "",
+      "evaluationScore": "",
       "id": 9
     },
     {
-      "name": "Gautam323224",
-      "age": "dgsgg",
-      "status": true,
+      "name": "",
+      "batch": "",
+      "course": "",
+      "age": "",
+      "mobileNumber": "",
+      "evaluationScore": "",
       "id": 10
     },
     {
-      "name": "Gautam323224",
-      "age": "dgsgg",
-      "status": true,
+      "name": "",
+      "batch": "",
+      "course": "",
+      "age": "",
+      "mobileNumber": "",
+      "evaluationScore": "",
       "id": 11
-    },
-    {
-      "name": "Gautam323224",
-      "age": "dgsgg",
-      "status": true,
-      "id": 12
-    },
-    {
-      "name": "Gautam323224",
-      "age": "dgsgg",
-      "status": true,
-      "id": 13
-    },
-    {
-      "name": "Gautam323224",
-      "age": "dgsgg",
-      "status": true,
-      "id": 14
-    },
-    {
-      "name": "Gautam323224",
-      "age": "dgsgg",
-      "status": true,
-      "id": 15
-    },
-    {
-      "name": "Gautam323224",
-      "age": "dgsgg",
-      "status": true,
-      "id": 16
-    },
-    {
-      "name": "Gautam323224",
-      "age": "dgsgg",
-      "status": true,
-      "id": 17
-    },
-    {
-      "name": "Gautam323224",
-      "age": "dgsgg",
-      "status": true,
-      "id": 18
-    },
-    {
-      "name": "Gautam323224",
-      "age": "dgsgg",
-      "status": true,
-      "id": 18
     }
   ]
 }
