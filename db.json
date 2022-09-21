@@ -13,7 +13,7 @@
       "course": "JS201",
       "age": "19",
       "mobileNumber": "9341980205",
-      "evaluationScore": "29",
+      "evaluationScore": "",
       "id": 3
     },
     {
@@ -24,33 +24,6 @@
       "mobileNumber": "23322",
       "evaluationScore": "9.5",
       "id": 6
-    },
-    {
-      "name": "",
-      "batch": "",
-      "course": "",
-      "age": "",
-      "mobileNumber": "",
-      "evaluationScore": "",
-      "id": 9
-    },
-    {
-      "name": "",
-      "batch": "",
-      "course": "",
-      "age": "",
-      "mobileNumber": "",
-      "evaluationScore": "",
-      "id": 10
-    },
-    {
-      "name": "",
-      "batch": "",
-      "course": "",
-      "age": "",
-      "mobileNumber": "",
-      "evaluationScore": "",
-      "id": 11
     }
   ]
 }
