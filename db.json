@@ -6,24 +6,5 @@
       "author": "typicode"
     }
   ],
-  "users": [
-    {
-      "name": "Gautam Kumar",
-      "batch": "fw20_0786",
-      "course": "JS201",
-      "age": "19",
-      "mobileNumber": "9341980205",
-      "evaluationScore": "",
-      "id": 3
-    },
-    {
-      "name": "qw2",
-      "batch": "23",
-      "course": "fasf233",
-      "age": "23",
-      "mobileNumber": "23322",
-      "evaluationScore": "9.5",
-      "id": 6
-    }
-  ]
+  "users": []
 }
